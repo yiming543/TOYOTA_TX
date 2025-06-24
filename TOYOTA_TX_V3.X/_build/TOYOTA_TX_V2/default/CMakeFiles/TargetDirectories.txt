@@ -1,0 +1,4 @@
+C:/yiming/work/TOYOTA_TX_V3.X/_build/TOYOTA_TX_V2/default/CMakeFiles/TOYOTA_TX_V2_default_default_XC8_compile.dir
+C:/yiming/work/TOYOTA_TX_V3.X/_build/TOYOTA_TX_V2/default/CMakeFiles/default.elf.dir
+C:/yiming/work/TOYOTA_TX_V3.X/_build/TOYOTA_TX_V2/default/CMakeFiles/edit_cache.dir
+C:/yiming/work/TOYOTA_TX_V3.X/_build/TOYOTA_TX_V2/default/CMakeFiles/rebuild_cache.dir
